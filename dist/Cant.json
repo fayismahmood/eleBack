@@ -1,0 +1,6 @@
+[
+    { "type": "President", "cants": [{ "name": "Samad Muniyoor", "pic": "./1170.jpg" }, { "name": "Ali Cherladukka", "pic": "./1184.jpg" }] },
+    { "type": "Secretary", "cants": [{ "name": "Adil Shiriya", "pic": "./713.jpg" }, { "name": "Nafi Eriyappady", "pic": "./1186.jpg" }] },
+    { "type": "Treasurer", "cants": [{ "name": "Adnan Cheroor", "pic": "./435.jpg" }, { "name": "Unais Pallathadka", "pic": "./432.jpg" }] }
+  
+  ]
